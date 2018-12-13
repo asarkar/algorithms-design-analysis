@@ -1,0 +1,19 @@
+::Benchmark MedianMaintenance.using heap::
+cores: 8
+hostname: ***
+name: OpenJDK 64-Bit Server VM
+osArch: x86_64
+osName: Mac OS X
+vendor: Azul Systems, Inc.
+version: 11.0.1+13-LTS
+Parameters(file -> Median): 116.520563 ms
+
+::Benchmark MedianMaintenance.using red-black BST::
+cores: 8
+hostname: ***
+name: OpenJDK 64-Bit Server VM
+osArch: x86_64
+osName: Mac OS X
+vendor: Azul Systems, Inc.
+version: 11.0.1+13-LTS
+Parameters(file -> Median): 6428.908812 ms

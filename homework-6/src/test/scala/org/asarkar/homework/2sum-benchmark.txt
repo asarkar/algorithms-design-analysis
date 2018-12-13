@@ -1,0 +1,8 @@
+cores: 8
+hostname: ***
+name: OpenJDK 64-Bit Server VM
+osArch: x86_64
+osName: Mac OS X
+vendor: Azul Systems, Inc.
+version: 11.0.1+13-LTS
+Parameters(file -> 2sum): 116.069441 ms
