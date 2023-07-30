@@ -8,7 +8,7 @@ object OptionalProblems {
    * Give an algorithm that identifies the second-largest number in the array, and that uses at most n +log₂n - 2
    * comparisons.
    *
-   * ANSWER: See https://blog.asarkar.org/assets/docs/algorithms-curated/Finding%20Second%20Largest%20Element%20in%20an%20Array%20-%20CSC%20349.pdf.
+   * ANSWER: See https://blogs.asarkar.com/assets/docs/algorithms-curated/Finding%20Second%20Largest%20Element%20in%20an%20Array%20-%20CSC%20349.pdf.
    * Basically, we do two passes:
    * 1. Find the max, and keep track of which elements the max was compared to.
    * 2. Find the max among the elements max was compared to; the result is the second largest element.

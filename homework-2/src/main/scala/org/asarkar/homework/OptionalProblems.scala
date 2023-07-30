@@ -8,7 +8,7 @@ object OptionalProblems {
    * T(1) = 1 and T(n) ≤ T([√n]) + 1 for n > 1. (Here [x] denotes the "floor" function,
    * which rounds down to the nearest integer.)
    *
-   * ANSWER: See https://blog.asarkar.org/algorithms-design-analysis/set-2/
+   * ANSWER: See https://blogs.asarkar.com/algorithms-design-analysis/set-2/
    */
   /*
    * 2. You are given an n by n grid of distinct numbers. A number is a local minimum if it is smaller than all of

@@ -1,6 +1,6 @@
-[![Build Status](https://travis-ci.org/asarkar/algorithms-design-analysis.svg?branch=master)](https://travis-ci.org/asarkar/algorithms-design-analysis)
+[![](https://github.com/asarkar/algorithms-design-analysis/actions/workflows/ci.yml/badge.svg)](https://github.com/asarkar/algorithms-design-analysis/actions/workflows/ci.yml)
 
-Lecture videos and answers to homeworks for [Algorithms: Design and Analysis](https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms1+SelfPaced/about) - an online course offered by Stanford University and taught by Prof. Tim Roughgarden.
+Lecture videos and answers to homeworks for [Algorithms: Design and Analysis, Part 1](https://online.stanford.edu/courses/soe-ycsalgorithms1-algorithms-design-and-analysis-part-1) - an online course offered by Stanford University and taught by Prof. Tim Roughgarden.
 
 ## Syllabus:
 
@@ -46,7 +46,7 @@ Lecture videos and answers to homeworks for [Algorithms: Design and Analysis](ht
 
 ### Homework 1
 
-* [Problem Set](https://blog.asarkar.org/algorithms-design-analysis/set-1/)
+* [Problem Set](https://blogs.asarkar.com/algorithms-design-analysis/set-1/)
 * [Optional Theory Problems](homework-1/src/main/scala/org/asarkar/homework/OptionalProblems.scala)
 * [Programming Assignment](homework-1/src/main/scala/org/asarkar/homework/Assignment1.scala)
 
@@ -90,7 +90,7 @@ Lecture videos and answers to homeworks for [Algorithms: Design and Analysis](ht
 
 ### Homework 2
 
-* [Problem Set](https://blog.asarkar.org/algorithms-design-analysis/set-2/)
+* [Problem Set](https://blogs.asarkar.com/algorithms-design-analysis/set-2/)
 * [Optional Theory Problems](homework-2/src/main/scala/org/asarkar/homework/OptionalProblems.scala)
 * [Programming Assignment](homework-2/src/main/scala/org/asarkar/homework/Assignment2.scala)
 
@@ -122,8 +122,8 @@ Lecture videos and answers to homeworks for [Algorithms: Design and Analysis](ht
 
 ### Homework 3
 
-* [Problem Set](https://blog.asarkar.org/algorithms-design-analysis/set-3/)
-* [Optional Theory Problems](https://blog.asarkar.org/algorithms-design-analysis/hw-3-opt/)
+* [Problem Set](https://blogs.asarkar.com/algorithms-design-analysis/set-3/)
+* [Optional Theory Problems](https://blogs.asarkar.com/algorithms-design-analysis/hw-3-opt/)
 * [Programming Assignment](homework-3/src/main/scala/org/asarkar/homework/Assignment3.scala)
 
 ### 10. Graph Search and Connectivity
@@ -148,8 +148,8 @@ Lecture videos and answers to homeworks for [Algorithms: Design and Analysis](ht
 
 ### Homework 4
 
-* [Problem Set](https://blog.asarkar.org/algorithms-design-analysis/set-4/)
-* [Optional Theory Problems](https://blog.asarkar.org/algorithms-design-analysis/hw-4-opt/)
+* [Problem Set](https://blogs.asarkar.com/algorithms-design-analysis/set-4/)
+* [Optional Theory Problems](https://blogs.asarkar.com/algorithms-design-analysis/hw-4-opt/)
 * [Optional Theory Problems Code](homework-4/src/main/scala/org/asarkar/homework/OptionalProblem.scala)
 * [Programming Assignment](homework-4/src/main/scala/org/asarkar/homework/Assignment4.scala)
 
@@ -187,8 +187,8 @@ Lecture videos and answers to homeworks for [Algorithms: Design and Analysis](ht
 
 ### Homework 5
 
-* [Problem Set](https://blog.asarkar.org/algorithms-design-analysis/set-5/)
-* [Optional Theory Problems](https://blog.asarkar.org/algorithms-design-analysis/hw-5-opt/)
+* [Problem Set](https://blogs.asarkar.com/algorithms-design-analysis/set-5/)
+* [Optional Theory Problems](https://blogs.asarkar.com/algorithms-design-analysis/hw-5-opt/)
 * [Programming Assignment](homework-5/src/main/scala/org/asarkar/homework/Assignment5.scala)
 
 ### 14. Hashing: The Basics
@@ -217,12 +217,12 @@ Lecture videos and answers to homeworks for [Algorithms: Design and Analysis](ht
 
 ### Homework 6
 
-* [Problem Set](https://blog.asarkar.org/algorithms-design-analysis/set-6/)
-* [Optional Theory Problems](https://blog.asarkar.org/algorithms-design-analysis/hw-6-opt/)
+* [Problem Set](https://blogs.asarkar.com/algorithms-design-analysis/set-6/)
+* [Optional Theory Problems](https://blogs.asarkar.com/algorithms-design-analysis/hw-6-opt/)
 * [Programming Assignment](homework-6/src/main/scala/org/asarkar/homework/)
 
 ### Final Exam
 
-* [Final Exam](https://blog.asarkar.org/algorithms-design-analysis/final/)
+* [Final Exam](https://blogs.asarkar.com/algorithms-design-analysis/final/)
 
 
